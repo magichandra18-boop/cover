@@ -102,7 +102,7 @@ Publish the website in the LocalHost.
       <div class="details">
         <p><span class="label">Name :</span>M.VEDHA</p>
         <p><span class="label">Register No :</span>25012201 </p>
-        <p><span class="label">Department :</span> AI AND ML</p>
+        <p><span class="label">Department :</span> AI AND DS</p>
         <p><span class="label">College :</span> Saveetha Engineering College</p>
         <p><span class="label">Academic Year :</span> 2026 - 2027</p>
       </div>
@@ -113,7 +113,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-12-16 090320.png>)
+![alt text](<Screenshot 2025-12-16 135821-1.png>)
 
 
 ## RESULT:
